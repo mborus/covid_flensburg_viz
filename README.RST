@@ -4,6 +4,6 @@ and tries to visualize it.
 
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://github.com/mborus/covid_flensburg_viz/blob/main/Corona_Aktuell.ipynb
+ :target: https://github.com/mborus/covid_flensburg_viz/blob/main
 
-https://github.com/mborus/covid_flensburg_viz/blob/main/Corona_Aktuell.ipynb
+https://mybinder.org/v2/gh/mborus/covid_flensburg_viz/blob/main
